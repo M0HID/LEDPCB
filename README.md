@@ -13,6 +13,8 @@ An 1x8 header is broken out on the PCB which features a 5v, 3.3v, GND and 5 GPIO
 
 ## Gallery
 
-![image](https://cloud-7rbyiaxzr-hack-club-bot.vercel.app/0screenshot_2025-01-13_162020.png)
-![image](https://cloud-7rbyiaxzr-hack-club-bot.vercel.app/1screenshot_2025-01-13_162044.png)
-![image](https://cloud-7rbyiaxzr-hack-club-bot.vercel.app/2screenshot_2025-01-13_162029.png)
+| Front                                                                                         | Back                                                                                        |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| ![image](https://cloud-7rbyiaxzr-hack-club-bot.vercel.app/2screenshot_2025-01-13_162029.png) | ![image](https://cloud-7rbyiaxzr-hack-club-bot.vercel.app/0screenshot_2025-01-13_162020.png) |
+  
+<img src="https://cloud-7rbyiaxzr-hack-club-bot.vercel.app/1screenshot_2025-01-13_162044.png" width="500" />
